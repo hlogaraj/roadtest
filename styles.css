@@ -3,4 +3,12 @@ body {
     font-family: 'Comfortaa', cursive;
 	font-family: 'Zen Kaku Gothic New', sans-serif;
     text-align: center;
+    color: white;
+}
+
+h1 {
+    border-bottom: solid 1px white;
+    display: inline-block;
+    padding-left: 1em;
+    padding-right: 1em;
 }
